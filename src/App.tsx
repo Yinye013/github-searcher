@@ -12,7 +12,7 @@ function App() {
           path="/"
           element={
             <Layout>
-              <main className=" h-3/4">Contents</main>
+              <main className=" h-3/4">Contentsss</main>
             </Layout>
           }
         ></Route>
